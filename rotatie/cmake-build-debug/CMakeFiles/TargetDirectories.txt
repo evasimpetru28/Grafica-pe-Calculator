@@ -1,0 +1,3 @@
+/home/eva/CLionProjects/rotatie/cmake-build-debug/CMakeFiles/rotatie.dir
+/home/eva/CLionProjects/rotatie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eva/CLionProjects/rotatie/cmake-build-debug/CMakeFiles/rebuild_cache.dir

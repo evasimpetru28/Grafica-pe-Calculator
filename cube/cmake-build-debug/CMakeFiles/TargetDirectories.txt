@@ -1,0 +1,3 @@
+/home/eva/CLionProjects/cube/cmake-build-debug/CMakeFiles/cube.dir
+/home/eva/CLionProjects/cube/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eva/CLionProjects/cube/cmake-build-debug/CMakeFiles/rebuild_cache.dir

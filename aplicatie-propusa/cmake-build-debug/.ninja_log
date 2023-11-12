@@ -1,0 +1,15 @@
+# ninja log v5
+46	83	1699704023783971464	aplicatie_propusa	637c18158385777
+0	46	1699704023747971054	CMakeFiles/aplicatie_propusa.dir/main.cpp.o	cd3181b1f4cdbc00
+1	51	1699704027816017201	CMakeFiles/aplicatie_propusa.dir/main.cpp.o	cd3181b1f4cdbc00
+51	88	1699704027852017608	aplicatie_propusa	637c18158385777
+1	53	1699704055532327581	CMakeFiles/aplicatie_propusa.dir/main.cpp.o	cd3181b1f4cdbc00
+53	95	1699704055572328023	aplicatie_propusa	637c18158385777
+1	50	1699704079408589527	CMakeFiles/aplicatie_propusa.dir/main.cpp.o	cd3181b1f4cdbc00
+50	91	1699704079448589962	aplicatie_propusa	637c18158385777
+1	46	1699704083492633849	CMakeFiles/aplicatie_propusa.dir/main.cpp.o	cd3181b1f4cdbc00
+46	84	1699704083532634282	aplicatie_propusa	637c18158385777
+0	47	1699704092796734303	CMakeFiles/aplicatie_propusa.dir/main.cpp.o	cd3181b1f4cdbc00
+47	85	1699704092832734690	aplicatie_propusa	637c18158385777
+0	47	1699704123305058793	CMakeFiles/aplicatie_propusa.dir/main.cpp.o	cd3181b1f4cdbc00
+47	86	1699704123345059213	aplicatie_propusa	637c18158385777

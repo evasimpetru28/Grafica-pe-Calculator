@@ -1,0 +1,3 @@
+/home/eva/CLionProjects/aplicatia15/cmake-build-debug/CMakeFiles/aplicatia15.dir
+/home/eva/CLionProjects/aplicatia15/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eva/CLionProjects/aplicatia15/cmake-build-debug/CMakeFiles/rebuild_cache.dir

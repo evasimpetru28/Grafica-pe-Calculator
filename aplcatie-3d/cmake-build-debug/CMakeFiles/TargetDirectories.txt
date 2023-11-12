@@ -1,0 +1,3 @@
+/home/eva/CLionProjects/aplcatie-3d/cmake-build-debug/CMakeFiles/aplcatie_3d.dir
+/home/eva/CLionProjects/aplcatie-3d/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eva/CLionProjects/aplcatie-3d/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/eva/CLionProjects/GC/GC_lab1/cmake-build-debug/CMakeFiles/GC_lab1.dir
+/home/eva/CLionProjects/GC/GC_lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eva/CLionProjects/GC/GC_lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

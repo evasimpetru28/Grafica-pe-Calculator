@@ -1,0 +1,3 @@
+/home/eva/CLionProjects/aplicatie11.11.2023/cmake-build-debug/CMakeFiles/aplicatie11_11_2023.dir
+/home/eva/CLionProjects/aplicatie11.11.2023/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eva/CLionProjects/aplicatie11.11.2023/cmake-build-debug/CMakeFiles/rebuild_cache.dir
