@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/eva/CLionProjects/aplicatie-triangle-fan/cmake-build-debug",
-		"source" : "/home/eva/CLionProjects/aplicatie-triangle-fan"
+		"build" : "/home/eva/CLionProjects/GC/aplicatie-triangle-fan/cmake-build-debug",
+		"source" : "/home/eva/CLionProjects/GC/aplicatie-triangle-fan"
 	},
 	"version" : 
 	{

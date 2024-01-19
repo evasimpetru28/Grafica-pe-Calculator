@@ -1,3 +1,3 @@
-/home/eva/CLionProjects/aplicatie-triangle-fan/cmake-build-debug/CMakeFiles/aplicatie_triangle_fan.dir
-/home/eva/CLionProjects/aplicatie-triangle-fan/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/eva/CLionProjects/aplicatie-triangle-fan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eva/CLionProjects/GC/aplicatie-triangle-fan/cmake-build-debug/CMakeFiles/aplicatie_triangle_fan.dir
+/home/eva/CLionProjects/GC/aplicatie-triangle-fan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eva/CLionProjects/GC/aplicatie-triangle-fan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
