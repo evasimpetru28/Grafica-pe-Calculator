@@ -1,0 +1,3 @@
+/home/eva/CLionProjects/GC/tema/Interactive-Dot-Grid/cmake-build-debug/CMakeFiles/Interactive_Dot_Grid.dir
+/home/eva/CLionProjects/GC/tema/Interactive-Dot-Grid/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eva/CLionProjects/GC/tema/Interactive-Dot-Grid/cmake-build-debug/CMakeFiles/rebuild_cache.dir
