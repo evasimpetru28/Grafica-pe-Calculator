@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "menu",
+					"name" : "rotatie",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "menu::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-menu-Debug-9aa2648e6baa14fdfddd.json",
-					"name" : "menu",
+					"id" : "rotatie::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rotatie-Debug-ea3ec95a3a7fdb97dfc7.json",
+					"name" : "rotatie",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/eva/CLionProjects/menu/cmake-build-debug",
-		"source" : "/home/eva/CLionProjects/menu"
+		"build" : "/home/eva/CLionProjects/GC/rotatie/cmake-build-debug",
+		"source" : "/home/eva/CLionProjects/GC/rotatie"
 	},
 	"version" : 
 	{

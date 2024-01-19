@@ -1,3 +1,3 @@
-/home/eva/CLionProjects/teapot/cmake-build-debug/CMakeFiles/teapot.dir
-/home/eva/CLionProjects/teapot/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/eva/CLionProjects/teapot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eva/CLionProjects/GC/teapot/cmake-build-debug/CMakeFiles/teapot.dir
+/home/eva/CLionProjects/GC/teapot/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eva/CLionProjects/GC/teapot/cmake-build-debug/CMakeFiles/rebuild_cache.dir

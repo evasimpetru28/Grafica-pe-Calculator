@@ -1,4 +1,4 @@
-# Install script for directory: /home/eva/CLionProjects/teapot
+# Install script for directory: /home/eva/CLionProjects/GC/teapot
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/eva/CLionProjects/teapot/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/eva/CLionProjects/GC/teapot/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

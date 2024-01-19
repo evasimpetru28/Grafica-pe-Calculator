@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/eva/CLionProjects/menu/cmake-build-debug"
+			"value" : "/home/eva/CLionProjects/GC/tema/Rotating-3D-Cube/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/eva/CLionProjects/menu/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/eva/CLionProjects/GC/tema/Rotating-3D-Cube/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/eva/CLionProjects/menu"
+			"value" : "/home/eva/CLionProjects/GC/tema/Rotating-3D-Cube"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -843,7 +843,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "menu"
+			"value" : "Rotating_3D_Cube"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1126,19 +1126,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "linker supports push/pop state"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "TRUE"
-		},
-		{
-			"name" : "menu_BINARY_DIR",
+			"name" : "Rotating_3D_Cube_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1147,10 +1135,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/eva/CLionProjects/menu/cmake-build-debug"
+			"value" : "/home/eva/CLionProjects/GC/tema/Rotating-3D-Cube/cmake-build-debug"
 		},
 		{
-			"name" : "menu_IS_TOP_LEVEL",
+			"name" : "Rotating_3D_Cube_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1162,7 +1150,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "menu_SOURCE_DIR",
+			"name" : "Rotating_3D_Cube_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1171,7 +1159,19 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/eva/CLionProjects/menu"
+			"value" : "/home/eva/CLionProjects/GC/tema/Rotating-3D-Cube"
+		},
+		{
+			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "linker supports push/pop state"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
 		}
 	],
 	"kind" : "cache",
