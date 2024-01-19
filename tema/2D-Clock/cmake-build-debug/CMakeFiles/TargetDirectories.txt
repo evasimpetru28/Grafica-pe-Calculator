@@ -1,0 +1,3 @@
+/home/eva/CLionProjects/GC/tema/2D-Clock/cmake-build-debug/CMakeFiles/2D_Clock.dir
+/home/eva/CLionProjects/GC/tema/2D-Clock/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eva/CLionProjects/GC/tema/2D-Clock/cmake-build-debug/CMakeFiles/rebuild_cache.dir
