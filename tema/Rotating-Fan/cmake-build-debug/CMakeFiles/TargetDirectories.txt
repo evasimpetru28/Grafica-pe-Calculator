@@ -1,0 +1,3 @@
+/home/eva/CLionProjects/GC/tema/Rotating-Fan/cmake-build-debug/CMakeFiles/Rotating_Fan.dir
+/home/eva/CLionProjects/GC/tema/Rotating-Fan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eva/CLionProjects/GC/tema/Rotating-Fan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
